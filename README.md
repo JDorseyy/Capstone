@@ -2,7 +2,7 @@
 
 ## About
 
-This project will be about Ball pythons. Whythey are my favorite animals.
+This project will be about Ball pythons. Why they are my favorite animals.
 
 ## Built with
 

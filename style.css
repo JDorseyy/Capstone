@@ -1,0 +1,37 @@
+ h1 {
+background-color: darkorange;
+padding: 10px;
+margin: auto;
+ }
+ h2 {
+text-align: center;
+background-color: black;
+font-family: fantasy;
+padding: 30px;
+margin: auto;
+}
+
+footer {
+font-size: 10px;
+color: crimson;
+text-align: center;
+font-family: cursive;
+}
+.my-col1 {
+    border: solid cyan 5px;
+}
+.my-col2 {
+    border: solid gray 5px;
+}
+.my-col3 {
+    border: solid salmon 5px;
+}.my-col4 {
+    border: solid orange 5px;
+}
+.my-col5 {
+    border: solid black 5px;
+}
+.my-col6 {
+    border: solid red 5px;
+}
+

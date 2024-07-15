@@ -27,3 +27,7 @@ https://www.canva.com/design/DAGKaQm44A4/GrZ6IUdtLhdEzuTQTuB2eQ/view?utm_content
 Jamkia Dorsey and Dorsey664@gmail.com
 
 ## Acknowledgements
+
+www.w3schools.com
+www.getbootstrap.com
+www.canva.com

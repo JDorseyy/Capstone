@@ -6,17 +6,14 @@ This project will be about Ball pythons. Why they are my favorite animals.
 
 ## Built with
 
--
--
--
--
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
 
 ## Roadmap
 
 - [ ] My plan
-- [ ]
-- [ ]
-- [ ]
 
 ## Wireframe
 
@@ -24,7 +21,7 @@ https://www.canva.com/design/DAGKaQm44A4/GrZ6IUdtLhdEzuTQTuB2eQ/view?utm_content
 
 ## Contact
 
-Jamkia Dorsey and Dorsey664@gmail.com
+Jamkia D - Dorsey664@gmail.com
 
 ## Acknowledgements
 
